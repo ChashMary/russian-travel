@@ -1,0 +1,22 @@
+.lang-list__lang-link {
+  display: inline;
+  margin: 0 18px 0 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.lang-list__lang-link:last-of-type {
+  margin: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .lang-list__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
