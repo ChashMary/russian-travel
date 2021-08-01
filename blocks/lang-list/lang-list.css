@@ -1,9 +1,0 @@
-.lang-list {
-    display: flex;
-    flex-direction: row;
-    align-self: flex-end;
-    list-style-type: none;
-    height: fit-content;
-    margin: 0;
-    padding: 0;
-}
